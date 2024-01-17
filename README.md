@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Mabvuu
+- 👋 Hi, I’m Patty @Mabvuu
 - 👀 I’m interested in  Web Development| App Development
-- 🌱 I’m currently learning Flutter and Swift
-- 💞️ I’m looking to collaborate on App development
+- 🌱 I’m currently learning Flutter and C#
+- 💞️ I’m looking to collaborate on App and Web Development
 - 📫 How to reach me whatsapp on +263785296988
 
 <!---
